@@ -1,0 +1,3 @@
+print("Git is easy to use when you practice and practice well.")
+print("Repositories are folders one uses to store one's work or projects. \nIt could be local or remote. \nLocal repository is the one in your computer disk while the remote one is in the one stored in the cloud.")
+print("There are so many things you can do on Github. You can contribute to other programmers' work, you can have access and learn their work. I think I love that!")
